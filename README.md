@@ -22,4 +22,4 @@ During this project, I've harnessed the power of Tableau to create visual repres
 - A pie chart illustrating vehicle eligibility for Clean Alternative Fuel Vehicle incentives.
 - A customizable bar chart that allows you to explore the top N vehicles by make and vehicle type.
 
-https://github.com/sufyanpatel721/-ELECTRIC-VEHICLE-DATA-ANALYSIS/assets/60102381/d40dd1ab-6613-4409-ac97-7ac64d0f088e
+![image](https://github.com/sufyanpatel721/-ELECTRIC-VEHICLE-DATA-ANALYSIS/assets/60102381/057c152f-9541-4c11-9268-463409328fd0)
